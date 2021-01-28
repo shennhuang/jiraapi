@@ -1,0 +1,20 @@
+{
+    "name": "shen.huang/jiraapi",
+    "authors": [
+        {
+            "name": "shennhuang",
+            "email": "shen.huang@104.com.tw"
+        }
+    ],
+    "require": {
+        "shen.huang/util" : "*"
+    },
+    "repositories": {
+        "util": {
+            "type": "path",
+            "url": "../util"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false
+}

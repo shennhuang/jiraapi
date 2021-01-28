@@ -1,0 +1,38 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "87ef0193d73e6b2bf155d4e85d4334d6",
+    "packages": [
+        {
+            "name": "shen.huang/util",
+            "version": "dev-main",
+            "dist": {
+                "type": "path",
+                "url": "../util",
+                "reference": "cef70a5e90dd3d6b6aba85af44855170bfcb3711"
+            },
+            "type": "library",
+            "authors": [
+                {
+                    "name": "shennhuang",
+                    "email": "shen.huang@104.com.tw"
+                }
+            ],
+            "transport-options": {
+                "relative": true
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
