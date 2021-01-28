@@ -1,5 +1,5 @@
 {
-    "name": "shen.huang/jiraapi",
+    "name": "shennhuang/jiraapi",
     "authors": [
         {
             "name": "shennhuang",
@@ -13,6 +13,11 @@
         "util": {
             "type": "path",
             "url": "../util"
+        }
+    },
+    "autoload": {
+        "psr-4" : {
+            "JiraApi\\" : "src"
         }
     },
     "minimum-stability": "dev",
