@@ -7,7 +7,7 @@
         }
     ],
     "require": {
-        "shen.huang/util" : "*"
+        "shennhuang/util" : "*"
     },
     "repositories": {
         "util": {
